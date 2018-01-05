@@ -13,7 +13,7 @@ class paul_praw():
     def __init__(self, subreddit_name, thread_limit):
         print ("Initializing...")
         ######### CHANGE USERNAME AND PASSWORD TO RUN BELOW! ########
-        # https://www.reddit.com/prefs/apps/ create app there and create an app there
+        # https://www.reddit.com/prefs/apps/ create app there to get info below
         
         self.reddit = praw.Reddit(client_id = 'UPDATE CLIENT ID',
                              client_secret = 'GET CLIENT SECRET FROM WEBSITE',
