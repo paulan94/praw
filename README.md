@@ -1,5 +1,7 @@
 SAMPLE .txt file after EXECUTION
 
+NOTE: neutral sentiments are not added to thread/comment sentiment count.
+
 ('38', 'VeChain', 'VEN') has been found 4 times in a thread title, and 171 times in a comment. Negative THREADS: 1. Positive THREADS: 1. Negative COMMENTS: 42. Positive COMMENTS: 99. Thread Creation Time: [6.42, 11.03, 23.06, 0.91] hours ago.
     
 ('309', 'COSS', 'COSS') has been found 4 times in a thread title, and 40 times in a comment. Negative THREADS: 0. Positive THREADS: 4. Negative COMMENTS: 8. Positive COMMENTS: 24. Thread Creation Time: [12.64, 12.64, 10.52, 10.52] hours ago.
